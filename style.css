@@ -114,11 +114,14 @@ ol.lower_alphabet {
   top: -2.5em;
 }
 
+div.banner{
+  max-height: 30em;
+}
 .banner{
   width: 100%;
-  max-height: 400px;
   box-sizing: border-box;
-  margin-top: 1em;
+  margin-top: 0;
+  overflow: hidden;
 }
 
 .content{
