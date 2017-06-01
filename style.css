@@ -103,7 +103,7 @@ ol.lower_alphabet {
   max-height: 2.5em;
   display: inline;
   float: left;
-  padding-left: 5%;
+  padding-left: 1em;
   padding-top: 0.25em;
   padding-bottom: 0.25em;
   overflow: hidden;
